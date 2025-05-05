@@ -1,0 +1,23 @@
+{
+  "name": "sendmessage_backend",
+  "version": "1.0.0",
+  "description": "This backend part of pet-project. Author: Kozlov Roman",
+  "main": "app.js",
+  "scripts": {
+    "test": "Hello World"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SunDayNoOne/SendMessage_backend.git"
+  },
+  "keywords": [
+    "ExpressJS",
+    "Backend"
+  ],
+  "author": "Kozlov Roman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SunDayNoOne/SendMessage_backend/issues"
+  },
+  "homepage": "https://github.com/SunDayNoOne/SendMessage_backend#readme"
+}
