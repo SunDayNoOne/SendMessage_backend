@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/SunDayNoOne/SendMessage_backend/issues"
   },
-  "homepage": "https://github.com/SunDayNoOne/SendMessage_backend#readme"
+  "homepage": "https://github.com/SunDayNoOne/SendMessage_backend#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
